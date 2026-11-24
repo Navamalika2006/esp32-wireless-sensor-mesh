@@ -1,6 +1,5 @@
 # esp32-wireless-sensor-mesh<div align="center">
 
-# 📡 ESP32 Wireless Sensor Mesh Architecture
 
 **Multi-node IoT monitoring with MQTT, Blynk, ThingSpeak, Google Sheets and Node-RED**
 
